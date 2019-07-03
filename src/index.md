@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Ejemplo chorra de Blog que nunca llegará a ninguna parte
+title: Ejemplo chorra de Blog que nunca llegará a ninguna parte (con suerte)
 postsHeading: Últimos post publicados
 archiveButtonText: Ver todos los post (a cholón)
 socialImage: /images/demo-image-2.jpg

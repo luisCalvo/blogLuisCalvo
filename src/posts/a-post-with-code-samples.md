@@ -1,5 +1,6 @@
 ---
 title: A post with code samples
+socialImage: /images/demo-image-2.jpg
 date: 2019-07-04T10:12:00.000Z
 tags:
   - demo-content
